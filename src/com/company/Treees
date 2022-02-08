@@ -1,0 +1,9 @@
+
+
+//Left before right
+//left right root
+pre post in
+
+pre: root left right
+post: left right root
+in: left root right
